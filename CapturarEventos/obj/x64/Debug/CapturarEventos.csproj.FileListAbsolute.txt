@@ -1,0 +1,11 @@
+C:\Users\SAPB1\source\repos\CursoSapB1\CapturarEventos\bin\x64\Debug\CapturarEventos.exe.config
+C:\Users\SAPB1\source\repos\CursoSapB1\CapturarEventos\bin\x64\Debug\CapturarEventos.exe
+C:\Users\SAPB1\source\repos\CursoSapB1\CapturarEventos\bin\x64\Debug\CapturarEventos.pdb
+C:\Users\SAPB1\source\repos\CursoSapB1\CapturarEventos\obj\x64\Debug\CapturarEventos.csproj.AssemblyReference.cache
+C:\Users\SAPB1\source\repos\CursoSapB1\CapturarEventos\obj\x64\Debug\Interop.SAPbouiCOM.dll
+C:\Users\SAPB1\source\repos\CursoSapB1\CapturarEventos\obj\x64\Debug\CapturarEventos.csproj.ResolveComReference.cache
+C:\Users\SAPB1\source\repos\CursoSapB1\CapturarEventos\obj\x64\Debug\CapturarEventos.Properties.Resources.resources
+C:\Users\SAPB1\source\repos\CursoSapB1\CapturarEventos\obj\x64\Debug\CapturarEventos.csproj.GenerateResource.cache
+C:\Users\SAPB1\source\repos\CursoSapB1\CapturarEventos\obj\x64\Debug\CapturarEventos.csproj.CoreCompileInputs.cache
+C:\Users\SAPB1\source\repos\CursoSapB1\CapturarEventos\obj\x64\Debug\CapturarEventos.exe
+C:\Users\SAPB1\source\repos\CursoSapB1\CapturarEventos\obj\x64\Debug\CapturarEventos.pdb
